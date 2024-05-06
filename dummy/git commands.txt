@@ -1,0 +1,8 @@
+Just Testing some commands
+git config --global user.email "shivakrishna.k_cse2019@svce.edu.in"
+git config --global user.name "shivakrishna987"
+git status
+git add .
+git status
+git commit -m  "your commit message ie message to understand why we create this file"
+git push
