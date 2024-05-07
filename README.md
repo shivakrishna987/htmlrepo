@@ -1,2 +1,0 @@
-# htmlrepo
-Practising HTML programs.
